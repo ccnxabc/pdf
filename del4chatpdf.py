@@ -1,5 +1,5 @@
 #1、这是一个针对港股招股书，只筛选需要的，凑成一个新的pdf文件。
-#2、将该py文件生产exe。
+#2、将该py文件通过pyinstaller生产exe。
 #3、处理过的pdf文件然后丢到chatpdf分析，免费版本的有100页限制。但是太高估chatpdf
 #来自chatgpt，部分涉及页面的需要自己修改
 import sys
